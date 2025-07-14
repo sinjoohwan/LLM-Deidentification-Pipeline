@@ -16,7 +16,7 @@
 | `5_token_per_print.py` | 마스킹된 토큰별 빈도 출력기 |
 | `6_STEP2.py` | 간접 식별자 NER 처리 시작 코드 |
 | `6_Step2_NER.py` | spaCy 기반 NER 전처리기 (KLUE NER/KoBERTNER 적용 가능) |
-
+| `7_Auto_script.py` | 전체 비식별화 파이프라인 자동 실행 스크립트 |
 ---
 
 ## 📦 설치 환경
